@@ -12,5 +12,7 @@ public class Banaag_MP5_1 {
 
     public static void main(String[] args) {
         new RegistrationForm();
+
+        System.out.print(Hello World);
     }
 }
